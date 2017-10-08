@@ -27,6 +27,10 @@ __[Компьютерная математика с Maxima](https://www.altlinux
 <br>
 ISBN 978-5-905167-09-6
 
+Edwin L. (Ted) Woollett
+<br>
+__[Maxima by Example](https://web.csulb.edu/~woollett/)__
+
 <br>
 <br>
 <br>
