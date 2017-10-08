@@ -5,6 +5,12 @@
 
 github: https://github.com/ponyatov/danko
 
+### Install
+
+```
+$ sudo apt install wxmaxima gnuplot
+```
+
 ### References
 
 Данко, Попов, Кожевникова, Данко
