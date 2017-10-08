@@ -1,0 +1,18 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 13.04.2 ] */
+
+/* [wxMaxima: comment start ]
+2. Отрезок AB четырьмя точками разделен на пять равных частей. 
+Найти координату ближайшей к A точки деления, если A(-3), B(7)
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+A:[-3,0]$ B:[7,0]$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+wxplot2d([discrete,[A,B]],[style,linespoints],[box,false])$
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
