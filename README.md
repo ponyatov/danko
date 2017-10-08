@@ -31,6 +31,10 @@ Edwin L. (Ted) Woollett
 <br>
 __[Maxima by Example](https://web.csulb.edu/~woollett/)__
 
+Wilhelm Haager
+<br>
+__[Graphics with MAXIMA](http://www.austromath.at/daten/maxima/zusatz/Graphics_with_Maxima.pdf)__
+
 <br>
 <br>
 <br>
