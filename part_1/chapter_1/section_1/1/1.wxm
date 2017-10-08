@@ -5,5 +5,10 @@
 1. Построить на прямой точки A(3), B(-2), C(0), D(sqrt(2)), E(-3.5);
    [wxMaxima: comment end   ] */
 
+/* [wxMaxima: input   start ] */
+xy:[[3,0],[-2,0],[0,0],[sqrt(2),0],[-3.5,0]];
+wxplot2d([discrete,xy],[style,points],[x,-3.5,3],[box,false])$
+/* [wxMaxima: input   end   ] */
+
 /* Maxima can't load/batch files which end with a comment! */
 "Created with wxMaxima"$
